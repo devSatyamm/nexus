@@ -1,0 +1,10 @@
+{
+  "name": "Project NEXUS",
+  "description": "A fair, leak-resistant, world-class online examination platform featuring difficulty-balanced assembly, equipercentile normalization, and a tamper-evident proctoring audit log.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
