@@ -5,6 +5,26 @@
 
 <div align="center">
 
+<p align="center">
+<a href="https://www.linkedin.com/in/satyamofficial">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/devSatyamm">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://t.me/satyam_mishra">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4"
+       height="50"
+       style="margin:0 8px;">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/developersatyam">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=PROJECT%20NEXUS&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Zero-Trust%20Assessment%20Architecture&descAlignY=58&descSize=18" alt="banner" />
 
 <br/>
